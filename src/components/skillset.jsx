@@ -50,48 +50,7 @@ Apache Kafka and have hands-on programming experience in Python,C,C++,</p>
             
            
             </div>
-            <div className="row">
-            </div>
-            <div className="row row-pt-md">
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Database Systems</h3>
-                    <p>All my projects are built on either of these database systems such as Db2,SQL,Postgres(RDBMS),Cassandra </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Logging Tools:</h3>
-                    <p>My go-to tools to analyze and trouble-shoot anything are  Splunk ,Kibana  ,Grafana and Dynatrace </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Methodologies and Frameworks:</h3>
-                    <p>I enjoy working in 
-Agile(Scrum),Lean ,leSS ,CICD, Jenkins,TDD and BDD environments
-
-</p>
-                </div>
-                </div>
-            </div>
             
-           
-            </div>
 
         </div>
         </section>
